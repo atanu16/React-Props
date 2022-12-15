@@ -1,5 +1,6 @@
 # React-Props-Simple-Code
 
+Props Example:
 <img align="right" alt="Coding"  src="https://i.ibb.co/LNQSJCy/Props.jpg">
 
 Program Outcome :
